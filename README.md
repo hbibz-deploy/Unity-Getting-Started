@@ -1,4 +1,4 @@
-Unity - A big picture on game development. - Getting started
+# Unity - A big picture on game development. - Getting started
 
 [¶](#Unity---A-big-picture-on-game-development.---Getting-started)
 ==================================================================================================================================
@@ -27,7 +27,7 @@ From your launch wizard, you can select _"Open"_ in order to browse using your f
 
 ### Project files' hierarchy?[¶](#Project-files'-hierarchy?)
 
-![Image result for unity file structure](https://unity3d.com/sites/default/files/styles/original/public/learn/VZfolderstructure0img1.png?itok=VfFkx2IQ)
+![]https://unity3d.com/sites/default/files/styles/original/public/learn/VZfolderstructure0img1.png?itok=VfFkx2IQ)
 
 In order to set our folder structure in Unity, from our _Project_ window (location of all assets and from where we add objects to the scene view) we right click the mouse and hit _Create_ >\> _Folder_ and then give it a name. Now, this folder we created for our assets officially is created under the path we chose for the project. exactly at : {path of project}/Assets/{created folder}
 
@@ -51,7 +51,7 @@ When creating your gameplay, you will actually need to add some sort of assets a
 
 1.  Choosing _create_ from the _hierarchy_ panel.
 2.  Selecting "3D Object" >> {an object} ![](//i.imgur.com/7nEtCNA.png)
-3.  After choosing the desired shape, modifying the dimensions can be done using the _Scale tool_ by dragging the colored cubes . ![](//i.imgur.com/ANJf9WN.png)
+3.  After choosing the desired shape, modifying the dimensions can be done using the _Scale tool_ by dragging the colored cubes . ![](http://i.imgur.com/ANJf9WN.png)
 
 Once you have a boundry (floor), you can add a character. A standard when prototyping games is to insert capsules (3D primitives) to replace/represent casual players, instead of 3D modeling the shape of the character and UVing it and using something like PhotoShop to create the final look and importing everything as assets (animation clips).
 
