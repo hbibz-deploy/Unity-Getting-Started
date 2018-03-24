@@ -3,7 +3,7 @@ Unity - A big picture on game development. - Getting started
 [¶](#Unity---A-big-picture-on-game-development.---Getting-started)
 ==================================================================================================================================
 
-<img src="[https://unity3d.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/unity-master-black.svg"/](https://unity3d.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/unity-master-black.svg"/) width=400 height=300>
+![Unity Logo](https://unity3d.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/unity-master-black.svg)
 
 Intro:[¶](#Intro:)
 ------------------
