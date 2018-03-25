@@ -20,7 +20,7 @@ After downloading Unity, and when you first start it, you will be prompted the l
 2.  Choose a name for your project
 3.  Choose a location for your project, in which all assets and needed files will live.
 4.  Click on _"Create project"_ Once that's done, you will need to wait until Unity generates the files needed for beginning your new project.
-
+A
 ### How to open a project?[¶](#How-to-open-a-project?)
 
 From your launch wizard, you can select _"Open"_ in order to browse using your file explorer for a desired existing projectproject. Then you can choose _"On Disk"_ to browse local files in your computer or _"In the Cloud"_
@@ -57,4 +57,5 @@ Once you have a boundry (floor), you can add a character. A standard when protot
 
 ### * How to import them?
 
-After setting up the 3D model, and making sure it fits Unity scale, and the pivot point then exporting it to the Unity project 's asset/Meshes folder location in fbx format... 
+After setting up the 3D model, and making sure it fits Unity scale, and the pivot point then exporting it to the Unity project 's asset/Meshes folder location in fbx ... **From the FBX pipeline, make sure you check the animation option, if your model is animated . Make sure that the scale is set to 1.0 under the advanced options**
+This must add in the Meshes folder a game Object which when selected adds the import option by dragging it to the scene. Now that the Inspector window is there, you can modify the propreties of the imported object like the scale factor .
